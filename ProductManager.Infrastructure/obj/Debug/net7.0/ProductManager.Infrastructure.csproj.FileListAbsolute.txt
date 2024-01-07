@@ -1,0 +1,17 @@
+C:\Projetos\AutoGlass\Teste\ProductManager\ProductManager.Infrastructure\bin\Debug\net7.0\ProductManager.Infrastructure.deps.json
+C:\Projetos\AutoGlass\Teste\ProductManager\ProductManager.Infrastructure\bin\Debug\net7.0\ProductManager.Infrastructure.runtimeconfig.json
+C:\Projetos\AutoGlass\Teste\ProductManager\ProductManager.Infrastructure\bin\Debug\net7.0\ProductManager.Infrastructure.dll
+C:\Projetos\AutoGlass\Teste\ProductManager\ProductManager.Infrastructure\bin\Debug\net7.0\ProductManager.Infrastructure.pdb
+C:\Projetos\AutoGlass\Teste\ProductManager\ProductManager.Infrastructure\bin\Debug\net7.0\ProductManager.Domain.dll
+C:\Projetos\AutoGlass\Teste\ProductManager\ProductManager.Infrastructure\bin\Debug\net7.0\ProductManager.Domain.pdb
+C:\Projetos\AutoGlass\Teste\ProductManager\ProductManager.Infrastructure\obj\Debug\net7.0\ProductManager.Infrastructure.csproj.AssemblyReference.cache
+C:\Projetos\AutoGlass\Teste\ProductManager\ProductManager.Infrastructure\obj\Debug\net7.0\ProductManager.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\AutoGlass\Teste\ProductManager\ProductManager.Infrastructure\obj\Debug\net7.0\ProductManager.Infrastructure.AssemblyInfoInputs.cache
+C:\Projetos\AutoGlass\Teste\ProductManager\ProductManager.Infrastructure\obj\Debug\net7.0\ProductManager.Infrastructure.AssemblyInfo.cs
+C:\Projetos\AutoGlass\Teste\ProductManager\ProductManager.Infrastructure\obj\Debug\net7.0\ProductManager.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Projetos\AutoGlass\Teste\ProductManager\ProductManager.Infrastructure\obj\Debug\net7.0\ProductManager.Infrastructure.csproj.CopyComplete
+C:\Projetos\AutoGlass\Teste\ProductManager\ProductManager.Infrastructure\obj\Debug\net7.0\ProductManager.Infrastructure.dll
+C:\Projetos\AutoGlass\Teste\ProductManager\ProductManager.Infrastructure\obj\Debug\net7.0\refint\ProductManager.Infrastructure.dll
+C:\Projetos\AutoGlass\Teste\ProductManager\ProductManager.Infrastructure\obj\Debug\net7.0\ProductManager.Infrastructure.pdb
+C:\Projetos\AutoGlass\Teste\ProductManager\ProductManager.Infrastructure\obj\Debug\net7.0\ProductManager.Infrastructure.genruntimeconfig.cache
+C:\Projetos\AutoGlass\Teste\ProductManager\ProductManager.Infrastructure\obj\Debug\net7.0\ref\ProductManager.Infrastructure.dll

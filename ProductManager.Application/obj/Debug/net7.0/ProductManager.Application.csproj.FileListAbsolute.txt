@@ -1,0 +1,15 @@
+C:\Projetos\AutoGlass\Teste\ProductManager\ProductManager.Application\bin\Debug\net7.0\ProductManager.Application.deps.json
+C:\Projetos\AutoGlass\Teste\ProductManager\ProductManager.Application\bin\Debug\net7.0\ProductManager.Application.dll
+C:\Projetos\AutoGlass\Teste\ProductManager\ProductManager.Application\bin\Debug\net7.0\ProductManager.Application.pdb
+C:\Projetos\AutoGlass\Teste\ProductManager\ProductManager.Application\bin\Debug\net7.0\ProductManager.Domain.dll
+C:\Projetos\AutoGlass\Teste\ProductManager\ProductManager.Application\bin\Debug\net7.0\ProductManager.Domain.pdb
+C:\Projetos\AutoGlass\Teste\ProductManager\ProductManager.Application\obj\Debug\net7.0\ProductManager.Application.csproj.AssemblyReference.cache
+C:\Projetos\AutoGlass\Teste\ProductManager\ProductManager.Application\obj\Debug\net7.0\ProductManager.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\AutoGlass\Teste\ProductManager\ProductManager.Application\obj\Debug\net7.0\ProductManager.Application.AssemblyInfoInputs.cache
+C:\Projetos\AutoGlass\Teste\ProductManager\ProductManager.Application\obj\Debug\net7.0\ProductManager.Application.AssemblyInfo.cs
+C:\Projetos\AutoGlass\Teste\ProductManager\ProductManager.Application\obj\Debug\net7.0\ProductManager.Application.csproj.CoreCompileInputs.cache
+C:\Projetos\AutoGlass\Teste\ProductManager\ProductManager.Application\obj\Debug\net7.0\ProductManager.Application.csproj.CopyComplete
+C:\Projetos\AutoGlass\Teste\ProductManager\ProductManager.Application\obj\Debug\net7.0\ProductManager.Application.dll
+C:\Projetos\AutoGlass\Teste\ProductManager\ProductManager.Application\obj\Debug\net7.0\refint\ProductManager.Application.dll
+C:\Projetos\AutoGlass\Teste\ProductManager\ProductManager.Application\obj\Debug\net7.0\ProductManager.Application.pdb
+C:\Projetos\AutoGlass\Teste\ProductManager\ProductManager.Application\obj\Debug\net7.0\ref\ProductManager.Application.dll

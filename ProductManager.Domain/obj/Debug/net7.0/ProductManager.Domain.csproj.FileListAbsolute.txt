@@ -1,0 +1,11 @@
+C:\Projetos\AutoGlass\Teste\ProductManager\ProductManager.Domain\bin\Debug\net7.0\ProductManager.Domain.deps.json
+C:\Projetos\AutoGlass\Teste\ProductManager\ProductManager.Domain\bin\Debug\net7.0\ProductManager.Domain.dll
+C:\Projetos\AutoGlass\Teste\ProductManager\ProductManager.Domain\bin\Debug\net7.0\ProductManager.Domain.pdb
+C:\Projetos\AutoGlass\Teste\ProductManager\ProductManager.Domain\obj\Debug\net7.0\ProductManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\AutoGlass\Teste\ProductManager\ProductManager.Domain\obj\Debug\net7.0\ProductManager.Domain.AssemblyInfoInputs.cache
+C:\Projetos\AutoGlass\Teste\ProductManager\ProductManager.Domain\obj\Debug\net7.0\ProductManager.Domain.AssemblyInfo.cs
+C:\Projetos\AutoGlass\Teste\ProductManager\ProductManager.Domain\obj\Debug\net7.0\ProductManager.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\AutoGlass\Teste\ProductManager\ProductManager.Domain\obj\Debug\net7.0\ProductManager.Domain.dll
+C:\Projetos\AutoGlass\Teste\ProductManager\ProductManager.Domain\obj\Debug\net7.0\refint\ProductManager.Domain.dll
+C:\Projetos\AutoGlass\Teste\ProductManager\ProductManager.Domain\obj\Debug\net7.0\ProductManager.Domain.pdb
+C:\Projetos\AutoGlass\Teste\ProductManager\ProductManager.Domain\obj\Debug\net7.0\ref\ProductManager.Domain.dll
